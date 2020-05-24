@@ -1,5 +1,16 @@
 # Shared Hosting Aid
 
+### Some tools
+
+- https://github.com/johntdyer/ftptail
+- https://github.com/wp-plugins/gauntlet-security
+- https://github.com/interconnectit/Search-Replace-DB
+- https://github.com/barracudanetworks/ArchiveStream-php
+- https://github.com/szepeviktor/Tripwire https://github.com/lasergoat/Tripwire https://github.com/lucanos/Tripwire
+- https://github.com/szepeviktor/Unified-Post-Types
+- https://github.com/chipbennett/update-control
+- https://github.com/lesterchan/wp-serverinfo
+- https://github.com/Yoast/yoast-debug
 
 
 ### Full featured PHP firewall
