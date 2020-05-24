@@ -1,6 +1,6 @@
 #!lftp -f
 
-open -u <USER>,<PASS>
+open -u <USER>,<PASS> <HOST>
 lcd <LOCAL-WEBROOT>
 cd <REMOTE_WEBROOT>
 mirror -v

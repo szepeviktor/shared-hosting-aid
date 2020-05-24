@@ -1,8 +1,11 @@
+# Encrypted Database Export
+
+
 ### Use the configuration utility!
 
-MySQL **minumum** version: `5.5`.
-
 `exp-o-util.sh`
+
+MySQL **minumum** version: `5.5`.
 
 ### Download phpMyAdmin
 

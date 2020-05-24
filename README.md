@@ -1,3 +1,7 @@
+# Shared Hosting Aid
+
+
+
 ### Full featured PHP firewall
 
 http://ninjafirewall.com/pro/overview.php
@@ -6,7 +10,7 @@ http://ninjafirewall.com/pro/overview.php
 
 ### Plugins and tools for shared hosting problems
 
-- See: "Recommended plugins" in [../README.md](../README.md)
+- See: "Recommended plugins" in szepeviktor/wordpress-plugin-construction
 - Error log setup: shared-hosting-aid/enable-logging.php
 - Error log watch: `error-log-monitor`
 - Outgoing HTTP traffic monitoring: `snitch`

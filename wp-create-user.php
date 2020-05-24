@@ -27,7 +27,7 @@ $wcu_userdata = (object) array(
     'last_name'         => 'Szépe',
     'comment_shortcuts' => '',
     'use_ssl'           => 0,
-    'user_pass'         => '12345',
+    'user_pass'         => 'changeme',
 );
 
 @ini_set( 'display_errors', 1 );

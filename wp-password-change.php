@@ -19,7 +19,7 @@ Author: Viktor Szépe
 /***------EDIT HERE----------***/
 
 $user = 'viktor';
-$plain_pass = '12345';
+$plain_pass = 'changeme';
 
 /***------EDIT HERE----------***/
 
